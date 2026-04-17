@@ -33,3 +33,9 @@ A personal project is meant to build up your resume demonstrating application of
 
 ## Professional Societies
 Lastly you have probably heard of networking but have no idea what it is or where to start. This is where clubs or professional societies come handy, here at UWB there is an IEEE (Institute of electrical and electronic engineers) branch and electronics club. IEEE branch hosts LinkedIn and resume workshops and provides local IEEE region event information. These events hosted by the larger IEEE region is a great place to learn about topics but meet with young professionals who were once EE students and can give advice on the transition to the workplace. With these events this is another place to practice professional communication skills such as the IEEE hosted symposium at the UWB campus in December of 2025 where you can witness professional engineers present on various topics and get a feeling of how you should be communicating on a professional level. 
+
+# References
+[^1]: 	J. Schmitt, "The 10 Biggest regrets of College Seniors," Poets & Quants For Undergrads, 16 April 2023. [Online]. Available: https://poetsandquantsforundergrads.com/students/the-10-biggest-regrets-of-college-seniors/2/. [Accessed 15 April 2026].
+
+[^2]: 	E. Efyian, "Top 37 Electrical Engineering Projects," Electronicsforu, 26 Mat 2025. [Online]. Available: https://www.electronicsforu.com/electronics-projects/eee-projects-ideas. [Accessed 15 April 2026].
+[^3]: 	P. Petrov. [Online]. Available: https://www.electronicsforu.com/electronics-projects/signal-generator-inverter-ne555.
