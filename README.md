@@ -3,7 +3,6 @@
 # Table of Contents
 - [Introduction](#introduction)
   - [Importance](#importance)
-- [Best Practice](#best-practice)
   - [Academic Planning](#academc-planning)
   - [Time Managment](#time-managment)
   - [Personal Project](#personal-project)
@@ -18,9 +17,7 @@ Have you considered what happens after university and heard about the currently 
 # Importance
 During your time in university you will be taking three to four courses each quarter spread out though the week this allotting you more free time compared to highschool. It is essential to capitalize on this free time especially in your first two years following the best practices below as the final two years courses become much more rigorous which leads to most upperclassmen regret not doing.[^1]. Along with filling your time these activities prepare you to enter the job market by teaching you essential skills required for a new graduate position.
 
----
-## Best Practice
----
+
 ## Acadmic Planning
 As mentioned above you are responsible to register for courses which may seem like a daunting task with hundreds to choose from, this is where your academic advisor and major professors come in. Academic advisors play a crucial role in mapping out your four years to ensure you complete all degree requirements as they have the knowledge of when specific courses are offered and their general flow based on prerequisites. 
 
