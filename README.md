@@ -7,7 +7,7 @@
   - [Time Managment](#time-managment)
   - [Personal Project](#personal-project)
   - [Professional Societies](#professional-societies)
-- [Refference](#References)
+- [Reference](#References)
  
 
 # Introduction
